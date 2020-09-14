@@ -1,6 +1,8 @@
 import numpy as np
 
-
+"""
+SIMPLE COMMENT 1 ON CODE
+"""
 class NeuralNetwork(object):
     def __init__(self, input_nodes, hidden_nodes, output_nodes, learning_rate):
         # Set number of nodes in input, hidden and output layers.
